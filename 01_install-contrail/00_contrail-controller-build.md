@@ -2,7 +2,7 @@
 
 ```
 sudo apt-get install git ruby
-git clone -b https://github.com/Juniper/contrail-kubernetes
+git clone https://github.com/Juniper/contrail-kubernetes
 ```
 
 # Make sure all the nodes are in /etc/hosts
